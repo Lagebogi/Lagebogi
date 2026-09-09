@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anurag
+# 👋 Hi, I'm Anurag Jayan
 
 ### ☁️ Cloud Engineer | AWS | DevOps
 
